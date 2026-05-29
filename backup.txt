@@ -1,3 +1,5 @@
 # 备份路径配置
+# 每行一个路径，支持绝对路径和 ~ 开头的路径
+# 例如：~/.openclaw 或 /data/myapp
 #
-# PATHS: /data
+# PATHS: /root
