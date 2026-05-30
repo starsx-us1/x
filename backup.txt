@@ -1,5 +1,5 @@
-# 备份路径配置
-# 每行一个路径，支持绝对路径和 ~ 开头的路径
-# 例如：~/.openclaw 或 /data/myapp
-#
 # PATHS: /root
+
+
+# 路径: /root
+root.tar.gz https://github.com/starsx-us1/x/releases/download/backup/root.tar.gz
